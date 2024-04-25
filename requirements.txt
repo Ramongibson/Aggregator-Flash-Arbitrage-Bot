@@ -1,0 +1,6 @@
+web3
+eth-account
+requests
+decimal
+loguru
+hexbytes

@@ -1,0 +1,18 @@
+{
+    "mode": "test",
+    "testnet_rpc": "https://data-seed-prebsc-1-s1.binance.org:8545/",
+    "mainnet_rpc": "https://bsc-dataseed1.binance.org/",
+    "wallet_address": "0xf01A75A88C66da31390Cbd87d305F1Ac9Ffbcd71",
+    "test_private_key": "",
+    "production_private_key": "",
+    "gas_limit": 15,
+    "min_bnb_balance": 0.025,
+    "slippage": 0.001,
+    "arbitrage_address": "0x13213239cf08823C7038008126fF90Db06fD558a",
+    "arbitrage_abi_filename": "abi/arbitrage_abi.json",
+    "flashloan_address": "0xEe7e961f77066c5E995615ae7e7E8e4366d9eC5A",
+    "flashloan_abi_filename": "abi/flashloan_abi.json",
+    "token_filename": "config/token_config.json",
+    "loan_token_filename": "config/loan_token_config.json",
+    "log_level": "INFO"
+}

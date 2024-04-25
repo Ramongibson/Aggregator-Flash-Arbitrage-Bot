@@ -1,0 +1,14 @@
+{
+  "BUSD": {
+    "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "decimals": 18,
+    "vault": "0x305deb6bDa7A951C0a8f2Be18b8b423Dc1B7E830",
+    "profit": 1
+  },
+  "WBNB": {
+    "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+    "decimals": 18,
+    "vault": "0x4779FBC2628930eedb5Af6134491622deF69C36A",
+    "profit": 0.003
+  }
+}
